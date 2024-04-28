@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AimanFarhanMohdFaruk
-- 👀 I’m interested in web3.0, JavaScript, Python
-- 🌱 I’m currently learning OdinProject, Leetcode
+- 👀 I’m interested in solving problems.
+- 🌱 I’m currently working as a full-stack mobile developer.
 - 💞️ I’m looking to collaborate on starter projects
 - 📫 How to reach me linkedin at AimanFarhan
 
